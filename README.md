@@ -1,4 +1,4 @@
-# Python-Exercise
+# Python-Programs
 This is a project of programming exercise for beginners of Python.
 
 
